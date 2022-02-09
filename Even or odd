@@ -1,0 +1,10 @@
+num=int(input('enter a value'))
+if (num%2==0):
+    print('num is even')
+else:
+    print('num is odd')
+
+Output:
+enter a value20
+enter b value23
+b is greater than a
